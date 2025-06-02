@@ -1,0 +1,36 @@
+Securing network infrastructure has become a 
+critical concern for enterprises due to the increase in cyber threats. 
+Novel and complex assaults are frequently missed by conventional 
+security measures like firewalls and signature-based intrusion 
+detection systems. In order to solve this problem, machine 
+learning-powered Network Intrusion Detection Systems (NIDS) 
+have become a viable way to instantly detect and stop cyberthreats.
+In order to detect anomalies, this project presents a Network 
+Intrusion Detection System (NIDS) Web Interface that uses an 
+ensemble model of autoencoders.The CICIDS2017 dataset, 
+which includes actual assault scenarios, is used to train the system, 
+enabling it to detect a wide range of intrusions with excellent 
+accuracy. An interactive and user-friendly platform for tracking 
+network traffic, visualizing threats found, and categorizing attack 
+types is offered by the web-based interface.
+
+The increasing number of cyber threats, such as phishing, 
+malware, and denial-of-service (DoS) attacks, highlights the 
+urgent need for strong security solutions to safeguard networks 
+against unauthorized access and data breaches.
+
+Challenges with Traditional Security Approaches: 
+Standard firewall and signature-based detection systems 
+frequently struggle to recognize new or changing cyber threats, 
+which makes anomaly-based intrusion detection systems essential.
+
+
+The proposed system aims to identify network intrusions 
+and categorize attack types through an advanced machine learning 
+approach. It combines Long Short-Term Memory (LSTM), 
+a deep learning model adept at processing sequential data, with 
+K-Nearest Neighbors (KNN), a reliable machine learning algorithm 
+for classification. The primary goal is to enhance the accuracy of 
+intrusion detection by utilizing both deep learning and traditional 
+classification techniques to effectively analyze network traffic data.
+
